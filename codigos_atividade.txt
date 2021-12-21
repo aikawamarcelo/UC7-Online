@@ -1,0 +1,28 @@
+
+MARCELO@DESKTOP-7E1RHFR MINGW64 ~ (master)
+$ cd /
+
+MARCELO@DESKTOP-7E1RHFR MINGW64 /
+$ cd "C:\Users\MARCELO\Documents\_GITUC7"
+
+MARCELO@DESKTOP-7E1RHFR MINGW64 ~/Documents/_GITUC7 (master)
+$ git config user.name
+aikawamarcelo
+
+MARCELO@DESKTOP-7E1RHFR MINGW64 ~/Documents/_GITUC7 (master)
+$ git config user.email
+aikawamarcelo@gmail.com
+
+MARCELO@DESKTOP-7E1RHFR MINGW64 ~/Documents/_GITUC7 (master)
+$ git init
+Initialized empty Git repository in C:/Users/MARCELO/Documents/_GITUC7/.git/
+
+MARCELO@DESKTOP-7E1RHFR MINGW64 ~/Documents/_GITUC7 (master)
+$ cd UC7-Online/
+
+MARCELO@DESKTOP-7E1RHFR MINGW64 ~/Documents/_GITUC7/UC7-Online (master)
+$ git init
+Initialized empty Git repository in C:/Users/MARCELO/Documents/_GITUC7/UC7-Online/.git/
+
+MARCELO@DESKTOP-7E1RHFR MINGW64 ~/Documents/_GITUC7/UC7-Online (master)
+$
